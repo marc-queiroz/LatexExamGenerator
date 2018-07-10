@@ -1,0 +1,952 @@
+This is XeTeX, Version 3.14159265-2.6-0.99998 (TeX Live 2017/Arch Linux) (preloaded format=xelatex 2018.5.13)  10 JUL 2018 17:45
+entering extended mode
+ \write18 enabled.
+ %&-line parsing enabled.
+**06_NOME_COMPLETO_DO_ALUNO_6.tex
+(./06_NOME_COMPLETO_DO_ALUNO_6.tex
+LaTeX2e <2017-04-15>
+Babel <3.18> and hyphenation patterns for 84 language(s) loaded.
+(/usr/share/texmf-dist/tex/latex/exam/exam.cls
+Document Class: exam 2017/12/17 Version 2.603 by Philip Hirschhorn
+(/usr/share/texmf-dist/tex/latex/base/ifthen.sty
+Package: ifthen 2014/09/29 v1.1c Standard LaTeX ifthen package (DPC)
+)
+(/usr/share/texmf-dist/tex/latex/base/article.cls
+Document Class: article 2014/09/29 v1.4h Standard LaTeX document class
+(/usr/share/texmf-dist/tex/latex/base/size12.clo
+File: size12.clo 2014/09/29 v1.4h Standard LaTeX file (size option)
+)
+\c@part=\count79
+\c@section=\count80
+\c@subsection=\count81
+\c@subsubsection=\count82
+\c@paragraph=\count83
+\c@subparagraph=\count84
+\c@figure=\count85
+\c@table=\count86
+\abovecaptionskip=\skip41
+\belowcaptionskip=\skip42
+\bibindent=\dimen102
+)
+\@extrawidth=\skip43
+\@rightmargin=\skip44
+\@extrahead=\skip45
+\@extrafoot=\skip46
+\run@exhd=\skip47
+\fp@exhd=\skip48
+\run@exft=\skip49
+\fp@exft=\skip50
+\covrun@exhd=\skip51
+\covfp@exhd=\skip52
+\covrun@exft=\skip53
+\covfp@exft=\skip54
+\c@num@coverpages=\count87
+\c@latest@ques=\count88
+\c@ques@end=\count89
+\c@last@object=\count90
+\c@incmp@ques=\count91
+\c@next@ques=\count92
+\c@next@page=\count93
+\c@tmp@hlfcntr=\count94
+\c@ifpos@cntr=\count95
+\c@question=\count96
+\c@partno=\count97
+\c@subpart=\count98
+\c@subsubpart=\count99
+\c@choice=\count100
+\c@numpoints=\count101
+\c@numbonuspoints=\count102
+\c@pointsof@thisquestion=\count103
+\c@bonuspointsof@thisquestion=\count104
+\c@numquestions=\count105
+\c@numparts=\count106
+\c@numsubparts=\count107
+\c@numsubsubparts=\count108
+\c@Curr@Page=\count109
+\c@@pagepoints=\count110
+\c@@pagebonuspoints=\count111
+\c@pageof@pagepoints=\count112
+\c@pageof@pagebonuspoints=\count113
+\c@latest@points=\count114
+\c@latest@bonuspoints=\count115
+\pageinfo@commands=\toks14
+\temp@toks=\toks15
+\pagepoint@commands=\toks16
+\point@toks=\toks17
+\c@ques@object=\count116
+\marginpointssep=\skip55
+\rightpointsmargin=\skip56
+\choice@toks=\toks18
+\answerlinelength=\skip57
+\answerskip=\skip58
+\answerclearance=\skip59
+\fillinlinelength=\skip60
+\linefillheight=\skip61
+\linefillthickness=\skip62
+\dottedlinefillheight=\skip63
+\gridsize=\skip64
+\gridlinewidth=\skip65
+\minboxheight=\skip66
+\c@@iterator=\count117
+\@cellwidth=\skip67
+\c@tbl@points=\count118
+\c@tbl@bonuspoints=\count119
+\c@pq@index=\count120
+\c@pq@index@pts=\count121
+\c@pq@index@bpts=\count122
+\c@num@cols=\count123
+\c@num@rows=\count124
+\c@current@row=\count125
+\c@cols@done=\count126
+\exam@box=\box26
+\saved@totalleftmargin=\dimen103
+\@sollistdepth=\count127
+\exam@FrameRule=\dimen104
+\exam@FrameSep=\dimen105
+)
+(/usr/share/texmf-dist/tex/latex/base/inputenc.sty
+Package: inputenc 2015/03/17 v1.2c Input encoding file
+\inpenc@prehook=\toks19
+\inpenc@posthook=\toks20
+
+
+Package inputenc Warning: inputenc package ignored with utf8 based engines.
+
+) (/usr/share/texmf-dist/tex/generic/babel/babel.sty
+Package: babel 2018/02/14 3.18 The Babel package
+
+(/usr/share/texmf-dist/tex/generic/babel/switch.def
+File: switch.def 2018/02/14 3.18 Babel switching mechanism
+)
+(/usr/share/texmf-dist/tex/generic/babel-portuges/portuges.ldf
+Language: portuges 2008/03/18 v1.2q Portuguese support from the babel system
+
+(/usr/share/texmf-dist/tex/generic/babel/babel.def
+File: babel.def 2018/02/14 3.18 Babel common definitions
+\babel@savecnt=\count128
+\U@D=\dimen106
+
+(/usr/share/texmf-dist/tex/generic/babel/xebabel.def
+(/usr/share/texmf-dist/tex/generic/babel/txtbabel.def))
+\bbl@dirlevel=\count129
+)
+\l@brazil = a dialect from \language\l@portuges 
+Package babel Info: Making " an active character on input line 145.
+))
+(/usr/share/texmf-dist/tex/latex/base/fontenc.sty
+Package: fontenc 2017/04/05 v2.0i Standard LaTeX package
+
+(/usr/share/texmf-dist/tex/latex/base/t1enc.def
+File: t1enc.def 2017/04/05 v2.0i Standard LaTeX file
+LaTeX Font Info:    Redeclaring font encoding T1 on input line 48.
+)
+LaTeX Font Info:    Try loading font information for T1+lmr on input line 105.
+
+(/usr/share/texmf-dist/tex/latex/lm/t1lmr.fd
+File: t1lmr.fd 2009/10/30 v1.6 Font defs for Latin Modern
+))
+(/usr/share/texmf-dist/tex/latex/mathtools/mathtools.sty
+Package: mathtools 2018/01/08 v1.21 mathematical typesetting tools
+
+(/usr/share/texmf-dist/tex/latex/graphics/keyval.sty
+Package: keyval 2014/10/28 v1.15 key=value parser (DPC)
+\KV@toks@=\toks21
+)
+(/usr/share/texmf-dist/tex/latex/tools/calc.sty
+Package: calc 2014/10/28 v4.3 Infix arithmetic (KKT,FJ)
+\calc@Acount=\count130
+\calc@Bcount=\count131
+\calc@Adimen=\dimen107
+\calc@Bdimen=\dimen108
+\calc@Askip=\skip68
+\calc@Bskip=\skip69
+LaTeX Info: Redefining \setlength on input line 80.
+LaTeX Info: Redefining \addtolength on input line 81.
+\calc@Ccount=\count132
+\calc@Cskip=\skip70
+)
+(/usr/share/texmf-dist/tex/latex/mathtools/mhsetup.sty
+Package: mhsetup 2017/03/31 v1.3 programming setup (MH)
+)
+(/usr/share/texmf-dist/tex/latex/amsmath/amsmath.sty
+Package: amsmath 2017/09/02 v2.17a AMS math features
+\@mathmargin=\skip71
+
+For additional information on amsmath, use the `?' option.
+(/usr/share/texmf-dist/tex/latex/amsmath/amstext.sty
+Package: amstext 2000/06/29 v2.01 AMS text
+
+(/usr/share/texmf-dist/tex/latex/amsmath/amsgen.sty
+File: amsgen.sty 1999/11/30 v2.0 generic functions
+\@emptytoks=\toks22
+\ex@=\dimen109
+))
+(/usr/share/texmf-dist/tex/latex/amsmath/amsbsy.sty
+Package: amsbsy 1999/11/29 v1.2d Bold Symbols
+\pmbraise@=\dimen110
+)
+(/usr/share/texmf-dist/tex/latex/amsmath/amsopn.sty
+Package: amsopn 2016/03/08 v2.02 operator names
+)
+\inf@bad=\count133
+LaTeX Info: Redefining \frac on input line 213.
+\uproot@=\count134
+\leftroot@=\count135
+LaTeX Info: Redefining \overline on input line 375.
+\classnum@=\count136
+\DOTSCASE@=\count137
+LaTeX Info: Redefining \ldots on input line 472.
+LaTeX Info: Redefining \dots on input line 475.
+LaTeX Info: Redefining \cdots on input line 596.
+\Mathstrutbox@=\box27
+\strutbox@=\box28
+\big@size=\dimen111
+LaTeX Font Info:    Redeclaring font encoding OML on input line 712.
+LaTeX Font Info:    Redeclaring font encoding OMS on input line 713.
+\macc@depth=\count138
+\c@MaxMatrixCols=\count139
+\dotsspace@=\muskip10
+\c@parentequation=\count140
+\dspbrk@lvl=\count141
+\tag@help=\toks23
+\row@=\count142
+\column@=\count143
+\maxfields@=\count144
+\andhelp@=\toks24
+\eqnshift@=\dimen112
+\alignsep@=\dimen113
+\tagshift@=\dimen114
+\tagwidth@=\dimen115
+\totwidth@=\dimen116
+\lineht@=\dimen117
+\@envbody=\toks25
+\multlinegap=\skip72
+\multlinetaggap=\skip73
+\mathdisplay@stack=\toks26
+LaTeX Info: Redefining \[ on input line 2817.
+LaTeX Info: Redefining \] on input line 2818.
+)
+LaTeX Info: Thecontrolsequence`\('isalreadyrobust on input line 129.
+LaTeX Info: Thecontrolsequence`\)'isalreadyrobust on input line 129.
+LaTeX Info: Thecontrolsequence`\['isalreadyrobust on input line 129.
+LaTeX Info: Thecontrolsequence`\]'isalreadyrobust on input line 129.
+\g_MT_multlinerow_int=\count145
+\l_MT_multwidth_dim=\dimen118
+\origjot=\skip74
+\l_MT_shortvdotswithinadjustabove_dim=\dimen119
+\l_MT_shortvdotswithinadjustbelow_dim=\dimen120
+\l_MT_above_intertext_sep=\dimen121
+\l_MT_below_intertext_sep=\dimen122
+\l_MT_above_shortintertext_sep=\dimen123
+\l_MT_below_shortintertext_sep=\dimen124
+)
+(/usr/share/texmf-dist/tex/latex/mdframed/mdframed.sty
+Package: mdframed 2013/07/01 1.9b: mdframed
+
+(/usr/share/texmf-dist/tex/latex/oberdiek/kvoptions.sty
+Package: kvoptions 2016/05/16 v3.12 Key value format for package options (HO)
+
+(/usr/share/texmf-dist/tex/generic/oberdiek/ltxcmds.sty
+Package: ltxcmds 2016/05/16 v1.23 LaTeX kernel commands for general use (HO)
+)
+(/usr/share/texmf-dist/tex/generic/oberdiek/kvsetkeys.sty
+Package: kvsetkeys 2016/05/16 v1.17 Key value parser (HO)
+
+(/usr/share/texmf-dist/tex/generic/oberdiek/infwarerr.sty
+Package: infwarerr 2016/05/16 v1.4 Providing info/warning/error messages (HO)
+)
+(/usr/share/texmf-dist/tex/generic/oberdiek/etexcmds.sty
+Package: etexcmds 2016/05/16 v1.6 Avoid name clashes with e-TeX commands (HO)
+
+(/usr/share/texmf-dist/tex/generic/oberdiek/ifluatex.sty
+Package: ifluatex 2016/05/16 v1.4 Provides the ifluatex switch (HO)
+Package ifluatex Info: LuaTeX not detected.
+)
+Package etexcmds Info: Could not find \expanded.
+(etexcmds)             That can mean that you are not using pdfTeX 1.50 or
+(etexcmds)             that some package has redefined \expanded.
+(etexcmds)             In the latter case, load this package earlier.
+)))
+(/usr/share/texmf-dist/tex/latex/l3packages/xparse/xparse.sty
+(/usr/share/texmf-dist/tex/latex/l3kernel/expl3.sty
+Package: expl3 2018/02/21 L3 programming layer (loader) 
+
+(/usr/share/texmf-dist/tex/latex/l3kernel/expl3-code.tex
+Package: expl3 2018/02/21 L3 programming layer (code)
+\c_max_int=\count146
+\l_tmpa_int=\count147
+\l_tmpb_int=\count148
+\g_tmpa_int=\count149
+\g_tmpb_int=\count150
+\g__intarray_font_int=\count151
+\g__prg_map_int=\count152
+\c_log_iow=\count153
+\l_iow_line_count_int=\count154
+\l__iow_line_target_int=\count155
+\l__iow_one_indent_int=\count156
+\l__iow_indent_int=\count157
+\c_zero_dim=\dimen125
+\c_max_dim=\dimen126
+\l_tmpa_dim=\dimen127
+\l_tmpb_dim=\dimen128
+\g_tmpa_dim=\dimen129
+\g_tmpb_dim=\dimen130
+\c_zero_skip=\skip75
+\c_max_skip=\skip76
+\l_tmpa_skip=\skip77
+\l_tmpb_skip=\skip78
+\g_tmpa_skip=\skip79
+\g_tmpb_skip=\skip80
+\c_zero_muskip=\muskip11
+\c_max_muskip=\muskip12
+\l_tmpa_muskip=\muskip13
+\l_tmpb_muskip=\muskip14
+\g_tmpa_muskip=\muskip15
+\g_tmpb_muskip=\muskip16
+\l_keys_choice_int=\count158
+\c__fp_leading_shift_int=\count159
+\c__fp_middle_shift_int=\count160
+\c__fp_trailing_shift_int=\count161
+\c__fp_big_leading_shift_int=\count162
+\c__fp_big_middle_shift_int=\count163
+\c__fp_big_trailing_shift_int=\count164
+\c__fp_Bigg_leading_shift_int=\count165
+\c__fp_Bigg_middle_shift_int=\count166
+\c__fp_Bigg_trailing_shift_int=\count167
+\l__sort_length_int=\count168
+\l__sort_min_int=\count169
+\l__sort_top_int=\count170
+\l__sort_max_int=\count171
+\l__sort_true_max_int=\count172
+\l__sort_block_int=\count173
+\l__sort_begin_int=\count174
+\l__sort_end_int=\count175
+\l__sort_A_int=\count176
+\l__sort_B_int=\count177
+\l__sort_C_int=\count178
+\l__tl_build_start_index_int=\count179
+\l__tl_build_index_int=\count180
+\l__tl_analysis_normal_int=\count181
+\l__tl_analysis_index_int=\count182
+\l__tl_analysis_nesting_int=\count183
+\l__tl_analysis_type_int=\count184
+\l__regex_internal_a_int=\count185
+\l__regex_internal_b_int=\count186
+\l__regex_internal_c_int=\count187
+\l__regex_balance_int=\count188
+\l__regex_group_level_int=\count189
+\l__regex_mode_int=\count190
+\c__regex_cs_in_class_mode_int=\count191
+\c__regex_cs_mode_int=\count192
+\l__regex_catcodes_int=\count193
+\l__regex_default_catcodes_int=\count194
+\c__regex_catcode_L_int=\count195
+\c__regex_catcode_O_int=\count196
+\c__regex_catcode_A_int=\count197
+\c__regex_all_catcodes_int=\count198
+\l__regex_show_lines_int=\count199
+\l__regex_min_state_int=\count266
+\l__regex_max_state_int=\count267
+\l__regex_left_state_int=\count268
+\l__regex_right_state_int=\count269
+\l__regex_capturing_group_int=\count270
+\l__regex_min_pos_int=\count271
+\l__regex_max_pos_int=\count272
+\l__regex_curr_pos_int=\count273
+\l__regex_start_pos_int=\count274
+\l__regex_success_pos_int=\count275
+\l__regex_curr_char_int=\count276
+\l__regex_curr_catcode_int=\count277
+\l__regex_last_char_int=\count278
+\l__regex_case_changed_char_int=\count279
+\l__regex_curr_state_int=\count280
+\l__regex_step_int=\count281
+\l__regex_min_active_int=\count282
+\l__regex_max_active_int=\count283
+\l__regex_replacement_csnames_int=\count284
+\l__regex_match_count_int=\count285
+\l__regex_min_submatch_int=\count286
+\l__regex_submatch_int=\count287
+\l__regex_zeroth_submatch_int=\count288
+\g__regex_trace_regex_int=\count289
+\c_empty_box=\box29
+\l_tmpa_box=\box30
+\l_tmpb_box=\box31
+\g_tmpa_box=\box32
+\g_tmpb_box=\box33
+\l__box_top_dim=\dimen131
+\l__box_bottom_dim=\dimen132
+\l__box_left_dim=\dimen133
+\l__box_right_dim=\dimen134
+\l__box_top_new_dim=\dimen135
+\l__box_bottom_new_dim=\dimen136
+\l__box_left_new_dim=\dimen137
+\l__box_right_new_dim=\dimen138
+\l__box_internal_box=\box34
+\l__coffin_internal_box=\box35
+\l__coffin_internal_dim=\dimen139
+\l__coffin_offset_x_dim=\dimen140
+\l__coffin_offset_y_dim=\dimen141
+\l__coffin_x_dim=\dimen142
+\l__coffin_y_dim=\dimen143
+\l__coffin_x_prime_dim=\dimen144
+\l__coffin_y_prime_dim=\dimen145
+\c_empty_coffin=\box36
+\l__coffin_aligned_coffin=\box37
+\l__coffin_aligned_internal_coffin=\box38
+\l_tmpa_coffin=\box39
+\l_tmpb_coffin=\box40
+\l__coffin_display_coffin=\box41
+\l__coffin_display_coord_coffin=\box42
+\l__coffin_display_pole_coffin=\box43
+\l__coffin_display_offset_dim=\dimen146
+\l__coffin_display_x_dim=\dimen147
+\l__coffin_display_y_dim=\dimen148
+\l__coffin_bounding_shift_dim=\dimen149
+\l__coffin_left_corner_dim=\dimen150
+\l__coffin_right_corner_dim=\dimen151
+\l__coffin_bottom_corner_dim=\dimen152
+\l__coffin_top_corner_dim=\dimen153
+\l__coffin_scaled_total_height_dim=\dimen154
+\l__coffin_scaled_width_dim=\dimen155
+)
+(/usr/share/texmf-dist/tex/latex/l3kernel/l3xdvipdfmx.def
+File: l3xdvidpfmx.def 2017/03/18 v L3 Experimental driver: xdvipdfmx
+\g__driver_image_int=\count290
+\l__driver_tmp_box=\box44
+))
+Package: xparse 2018/02/21 L3 Experimental document command parser
+\l__xparse_current_arg_int=\count291
+\g__xparse_grabber_int=\count292
+\l__xparse_m_args_int=\count293
+\l__xparse_mandatory_args_int=\count294
+\l__xparse_v_nesting_int=\count295
+)
+(/usr/share/texmf-dist/tex/latex/etoolbox/etoolbox.sty
+Package: etoolbox 2018/02/11 v2.5e e-TeX tools for LaTeX (JAW)
+\etb@tempcnta=\count296
+)
+(/usr/share/texmf-dist/tex/latex/oberdiek/zref-abspage.sty
+Package: zref-abspage 2016/05/21 v2.26 Module abspage for zref (HO)
+
+(/usr/share/texmf-dist/tex/latex/oberdiek/zref-base.sty
+Package: zref-base 2016/05/21 v2.26 Module base for zref (HO)
+
+(/usr/share/texmf-dist/tex/generic/oberdiek/kvdefinekeys.sty
+Package: kvdefinekeys 2016/05/16 v1.4 Define keys (HO)
+)
+(/usr/share/texmf-dist/tex/generic/oberdiek/pdftexcmds.sty
+Package: pdftexcmds 2018/01/21 v0.26 Utility functions of pdfTeX for LuaTeX (HO
+)
+
+(/usr/share/texmf-dist/tex/generic/oberdiek/ifpdf.sty
+Package: ifpdf 2017/03/15 v3.2 Provides the ifpdf switch
+)
+Package pdftexcmds Info: LuaTeX not detected.
+Package pdftexcmds Info: pdfTeX >= 1.30 not detected.
+Package pdftexcmds Info: \pdf@primitive is available.
+Package pdftexcmds Info: \pdf@ifprimitive is available.
+Package pdftexcmds Info: \pdfdraftmode not found.
+)
+(/usr/share/texmf-dist/tex/latex/oberdiek/auxhook.sty
+Package: auxhook 2016/05/16 v1.4 Hooks for auxiliary files (HO)
+)
+Package zref Info: New property list: main on input line 759.
+Package zref Info: New property: default on input line 760.
+Package zref Info: New property: page on input line 761.
+)
+(/usr/share/texmf-dist/tex/generic/oberdiek/atbegshi.sty
+Package: atbegshi 2016/06/09 v1.18 At begin shipout hook (HO)
+)
+\c@abspage=\count297
+Package zref Info: New property: abspage on input line 62.
+)
+(/usr/share/texmf-dist/tex/latex/needspace/needspace.sty
+Package: needspace 2010/09/12 v1.3d reserve vertical space
+)
+(/usr/share/texmf-dist/tex/latex/graphics/color.sty
+Package: color 2016/07/10 v1.1e Standard LaTeX Color (DPC)
+
+(/usr/share/texmf-dist/tex/latex/graphics-cfg/color.cfg
+File: color.cfg 2016/01/02 v1.6 sample color configuration
+)
+Package color Info: Driver file: xetex.def on input line 147.
+
+(/usr/share/texmf-dist/tex/latex/graphics-def/xetex.def
+File: xetex.def 2017/06/24 v5.0h Graphics/color driver for xetex
+))
+\mdf@templength=\skip81
+\c@mdf@globalstyle@cnt=\count298
+\mdf@skipabove@length=\skip82
+\mdf@skipbelow@length=\skip83
+\mdf@leftmargin@length=\skip84
+\mdf@rightmargin@length=\skip85
+\mdf@innerleftmargin@length=\skip86
+\mdf@innerrightmargin@length=\skip87
+\mdf@innertopmargin@length=\skip88
+\mdf@innerbottommargin@length=\skip89
+\mdf@splittopskip@length=\skip90
+\mdf@splitbottomskip@length=\skip91
+\mdf@outermargin@length=\skip92
+\mdf@innermargin@length=\skip93
+\mdf@linewidth@length=\skip94
+\mdf@innerlinewidth@length=\skip95
+\mdf@middlelinewidth@length=\skip96
+\mdf@outerlinewidth@length=\skip97
+\mdf@roundcorner@length=\skip98
+\mdf@footenotedistance@length=\skip99
+\mdf@userdefinedwidth@length=\skip100
+\mdf@needspace@length=\skip101
+\mdf@frametitleaboveskip@length=\skip102
+\mdf@frametitlebelowskip@length=\skip103
+\mdf@frametitlerulewidth@length=\skip104
+\mdf@frametitleleftmargin@length=\skip105
+\mdf@frametitlerightmargin@length=\skip106
+\mdf@shadowsize@length=\skip107
+\mdf@extratopheight@length=\skip108
+\mdf@subtitleabovelinewidth@length=\skip109
+\mdf@subtitlebelowlinewidth@length=\skip110
+\mdf@subtitleaboveskip@length=\skip111
+\mdf@subtitlebelowskip@length=\skip112
+\mdf@subtitleinneraboveskip@length=\skip113
+\mdf@subtitleinnerbelowskip@length=\skip114
+\mdf@subsubtitleabovelinewidth@length=\skip115
+\mdf@subsubtitlebelowlinewidth@length=\skip116
+\mdf@subsubtitleaboveskip@length=\skip117
+\mdf@subsubtitlebelowskip@length=\skip118
+\mdf@subsubtitleinneraboveskip@length=\skip119
+\mdf@subsubtitleinnerbelowskip@length=\skip120
+
+(/usr/share/texmf-dist/tex/latex/mdframed/md-frame-0.mdf
+File: md-frame-0.mdf 2013/07/01\ 1.9b: md-frame-0
+)
+\mdf@frametitlebox=\box45
+\mdf@footnotebox=\box46
+\mdf@splitbox@one=\box47
+\mdf@splitbox@two=\box48
+\mdf@splitbox@save=\box49
+\mdfsplitboxwidth=\skip121
+\mdfsplitboxtotalwidth=\skip122
+\mdfsplitboxheight=\skip123
+\mdfsplitboxdepth=\skip124
+\mdfsplitboxtotalheight=\skip125
+\mdfframetitleboxwidth=\skip126
+\mdfframetitleboxtotalwidth=\skip127
+\mdfframetitleboxheight=\skip128
+\mdfframetitleboxdepth=\skip129
+\mdfframetitleboxtotalheight=\skip130
+\mdffootnoteboxwidth=\skip131
+\mdffootnoteboxtotalwidth=\skip132
+\mdffootnoteboxheight=\skip133
+\mdffootnoteboxdepth=\skip134
+\mdffootnoteboxtotalheight=\skip135
+\mdftotallinewidth=\skip136
+\mdfboundingboxwidth=\skip137
+\mdfboundingboxtotalwidth=\skip138
+\mdfboundingboxheight=\skip139
+\mdfboundingboxdepth=\skip140
+\mdfboundingboxtotalheight=\skip141
+\mdf@freevspace@length=\skip142
+\mdf@horizontalwidthofbox@length=\skip143
+\mdf@verticalmarginwhole@length=\skip144
+\mdf@horizontalspaceofbox=\skip145
+\mdfsubtitleheight=\skip146
+\mdfsubsubtitleheight=\skip147
+\c@mdfcountframes=\count299
+
+****** mdframed patching \endmdf@trivlist
+
+****** -- success******
+
+.................................................
+. LaTeX info: "xparse/define-command"
+. 
+. Defining command \newmdtheoremenv with sig. 'O{} m o m o ' on line 601.
+.................................................
+.................................................
+. LaTeX info: "xparse/define-command"
+. 
+. Defining command \mdtheorem with sig. ' O{} m o m o ' on line 701.
+.................................................
+\mdf@envdepth=\count300
+\c@mdf@env@i=\count301
+\c@mdf@env@ii=\count302
+\c@mdf@zref@counter=\count303
+Package zref Info: New property: mdf@pagevalue on input line 895.
+)
+(/usr/share/texmf-dist/tex/latex/minted/minted.sty
+Package: minted 2017/07/19 v2.5 Yet another Pygments shim for LaTeX
+
+(/usr/share/texmf-dist/tex/latex/fvextra/fvextra.sty
+Package: fvextra 2017/07/08 v1.3.1 fvextra - extensions and patches for fancyvr
+b
+
+(/usr/share/texmf-dist/tex/latex/fancyvrb/fancyvrb.sty
+Package: fancyvrb 2008/02/07
+
+Style option: `fancyvrb' v2.7a, with DG/SPQR fixes, and firstline=lastline fix 
+<2008/02/07> (tvz)
+\FV@CodeLineNo=\count304
+\FV@InFile=\read1
+\FV@TabBox=\box50
+\c@FancyVerbLine=\count305
+\FV@StepNumber=\count306
+\FV@OutFile=\write3
+) (/usr/share/texmf-dist/tex/latex/upquote/upquote.sty
+Package: upquote 2012/04/19 v1.3 upright-quote and grave-accent glyphs in verba
+tim
+
+(/usr/share/texmf-dist/tex/latex/base/textcomp.sty
+Package: textcomp 2017/04/05 v2.0i Standard LaTeX package
+Package textcomp Info: Sub-encoding information:
+(textcomp)               5 = only ISO-Adobe without \textcurrency
+(textcomp)               4 = 5 + \texteuro
+(textcomp)               3 = 4 + \textohm
+(textcomp)               2 = 3 + \textestimated + \textcurrency
+(textcomp)               1 = TS1 - \textcircled - \t
+(textcomp)               0 = TS1 (full)
+(textcomp)             Font families with sub-encoding setting implement
+(textcomp)             only a restricted character set as indicated.
+(textcomp)             Family '?' is the default used for unknown fonts.
+(textcomp)             See the documentation for details.
+Package textcomp Info: Setting ? sub-encoding to TS1/1 on input line 79.
+
+(/usr/share/texmf-dist/tex/latex/base/ts1enc.def
+File: ts1enc.def 2001/06/05 v3.0e (jk/car/fm) Standard LaTeX file
+)
+LaTeX Info: Redefining \oldstylenums on input line 334.
+Package textcomp Info: Setting cmr sub-encoding to TS1/0 on input line 349.
+Package textcomp Info: Setting cmss sub-encoding to TS1/0 on input line 350.
+Package textcomp Info: Setting cmtt sub-encoding to TS1/0 on input line 351.
+Package textcomp Info: Setting cmvtt sub-encoding to TS1/0 on input line 352.
+Package textcomp Info: Setting cmbr sub-encoding to TS1/0 on input line 353.
+Package textcomp Info: Setting cmtl sub-encoding to TS1/0 on input line 354.
+Package textcomp Info: Setting ccr sub-encoding to TS1/0 on input line 355.
+Package textcomp Info: Setting ptm sub-encoding to TS1/4 on input line 356.
+Package textcomp Info: Setting pcr sub-encoding to TS1/4 on input line 357.
+Package textcomp Info: Setting phv sub-encoding to TS1/4 on input line 358.
+Package textcomp Info: Setting ppl sub-encoding to TS1/3 on input line 359.
+Package textcomp Info: Setting pag sub-encoding to TS1/4 on input line 360.
+Package textcomp Info: Setting pbk sub-encoding to TS1/4 on input line 361.
+Package textcomp Info: Setting pnc sub-encoding to TS1/4 on input line 362.
+Package textcomp Info: Setting pzc sub-encoding to TS1/4 on input line 363.
+Package textcomp Info: Setting bch sub-encoding to TS1/4 on input line 364.
+Package textcomp Info: Setting put sub-encoding to TS1/5 on input line 365.
+Package textcomp Info: Setting uag sub-encoding to TS1/5 on input line 366.
+Package textcomp Info: Setting ugq sub-encoding to TS1/5 on input line 367.
+Package textcomp Info: Setting ul8 sub-encoding to TS1/4 on input line 368.
+Package textcomp Info: Setting ul9 sub-encoding to TS1/4 on input line 369.
+Package textcomp Info: Setting augie sub-encoding to TS1/5 on input line 370.
+Package textcomp Info: Setting dayrom sub-encoding to TS1/3 on input line 371.
+Package textcomp Info: Setting dayroms sub-encoding to TS1/3 on input line 372.
+
+Package textcomp Info: Setting pxr sub-encoding to TS1/0 on input line 373.
+Package textcomp Info: Setting pxss sub-encoding to TS1/0 on input line 374.
+Package textcomp Info: Setting pxtt sub-encoding to TS1/0 on input line 375.
+Package textcomp Info: Setting txr sub-encoding to TS1/0 on input line 376.
+Package textcomp Info: Setting txss sub-encoding to TS1/0 on input line 377.
+Package textcomp Info: Setting txtt sub-encoding to TS1/0 on input line 378.
+Package textcomp Info: Setting lmr sub-encoding to TS1/0 on input line 379.
+Package textcomp Info: Setting lmdh sub-encoding to TS1/0 on input line 380.
+Package textcomp Info: Setting lmss sub-encoding to TS1/0 on input line 381.
+Package textcomp Info: Setting lmssq sub-encoding to TS1/0 on input line 382.
+Package textcomp Info: Setting lmvtt sub-encoding to TS1/0 on input line 383.
+Package textcomp Info: Setting lmtt sub-encoding to TS1/0 on input line 384.
+Package textcomp Info: Setting qhv sub-encoding to TS1/0 on input line 385.
+Package textcomp Info: Setting qag sub-encoding to TS1/0 on input line 386.
+Package textcomp Info: Setting qbk sub-encoding to TS1/0 on input line 387.
+Package textcomp Info: Setting qcr sub-encoding to TS1/0 on input line 388.
+Package textcomp Info: Setting qcs sub-encoding to TS1/0 on input line 389.
+Package textcomp Info: Setting qpl sub-encoding to TS1/0 on input line 390.
+Package textcomp Info: Setting qtm sub-encoding to TS1/0 on input line 391.
+Package textcomp Info: Setting qzc sub-encoding to TS1/0 on input line 392.
+Package textcomp Info: Setting qhvc sub-encoding to TS1/0 on input line 393.
+Package textcomp Info: Setting futs sub-encoding to TS1/4 on input line 394.
+Package textcomp Info: Setting futx sub-encoding to TS1/4 on input line 395.
+Package textcomp Info: Setting futj sub-encoding to TS1/4 on input line 396.
+Package textcomp Info: Setting hlh sub-encoding to TS1/3 on input line 397.
+Package textcomp Info: Setting hls sub-encoding to TS1/3 on input line 398.
+Package textcomp Info: Setting hlst sub-encoding to TS1/3 on input line 399.
+Package textcomp Info: Setting hlct sub-encoding to TS1/5 on input line 400.
+Package textcomp Info: Setting hlx sub-encoding to TS1/5 on input line 401.
+Package textcomp Info: Setting hlce sub-encoding to TS1/5 on input line 402.
+Package textcomp Info: Setting hlcn sub-encoding to TS1/5 on input line 403.
+Package textcomp Info: Setting hlcw sub-encoding to TS1/5 on input line 404.
+Package textcomp Info: Setting hlcf sub-encoding to TS1/5 on input line 405.
+Package textcomp Info: Setting pplx sub-encoding to TS1/3 on input line 406.
+Package textcomp Info: Setting pplj sub-encoding to TS1/3 on input line 407.
+Package textcomp Info: Setting ptmx sub-encoding to TS1/4 on input line 408.
+Package textcomp Info: Setting ptmj sub-encoding to TS1/4 on input line 409.
+))
+(/usr/share/texmf-dist/tex/latex/lineno/lineno.sty
+Package: lineno 2005/11/02 line numbers on paragraphs v4.41
+Invalid UTF-8 byte or sequence at line 296 replaced by U+FFFD.
+\linenopenalty=\count307
+\output=\toks27
+\linenoprevgraf=\count308
+\linenumbersep=\dimen156
+\linenumberwidth=\dimen157
+\c@linenumber=\count309
+\c@pagewiselinenumber=\count310
+\c@LN@truepage=\count311
+\c@internallinenumber=\count312
+\c@internallinenumbers=\count313
+\quotelinenumbersep=\dimen158
+\bframerule=\dimen159
+\bframesep=\dimen160
+\bframebox=\box51
+LaTeX Info: Redefining \\ on input line 3056.
+)
+\c@FV@TrueTabGroupLevel=\count314
+\c@FV@TrueTabCounter=\count315
+\FV@TabBox@Group=\box52
+\FV@TmpLength=\skip148
+\c@FV@HighlightLinesStart=\count316
+\c@FV@HighlightLinesStop=\count317
+\FV@LoopCount=\count318
+\FV@NCharsBox=\box53
+\FV@BreakIndent=\dimen161
+\FV@BreakIndentNChars=\count319
+\FV@BreakSymbolSepLeft=\dimen162
+\FV@BreakSymbolSepLeftNChars=\count320
+\FV@BreakSymbolSepRight=\dimen163
+\FV@BreakSymbolSepRightNChars=\count321
+\FV@BreakSymbolIndentLeft=\dimen164
+\FV@BreakSymbolIndentLeftNChars=\count322
+\FV@BreakSymbolIndentRight=\dimen165
+\FV@BreakSymbolIndentRightNChars=\count323
+\c@FancyVerbLineBreakLast=\count324
+\FV@LineBox=\box54
+\FV@LineIndentBox=\box55
+)
+(/usr/share/texmf-dist/tex/latex/tools/shellesc.sty
+Package: shellesc 2016/06/07 v0.02a unified shell escape interface for LaTeX
+Package shellesc Info: Unrestricted shell escape enabled on input line 67.
+)
+(/usr/share/texmf-dist/tex/latex/ifplatform/ifplatform.sty
+Package: ifplatform 2017/10/13 v0.4a Testing for the operating system
+
+(/usr/share/texmf-dist/tex/generic/oberdiek/catchfile.sty
+Package: catchfile 2016/05/16 v1.7 Catch the contents of a file (HO)
+)
+runsystem(uname -s > "06_NOME_COMPLETO_DO_ALUNO_6.w18")...executed.
+
+
+(./06_NOME_COMPLETO_DO_ALUNO_6.w18)
+runsystem(rm -- "06_NOME_COMPLETO_DO_ALUNO_6.w18")...executed.
+
+)
+(/usr/share/texmf-dist/tex/generic/xstring/xstring.sty
+(/usr/share/texmf-dist/tex/generic/xstring/xstring.tex
+\@xs@message=\write4
+\integerpart=\count325
+\decimalpart=\count326
+)
+Package: xstring 2013/10/13  v1.7c  String manipulations (C Tellechea)
+)
+(/usr/share/texmf-dist/tex/latex/framed/framed.sty
+Package: framed 2011/10/22 v 0.96: framed or shaded text with page breaks
+\OuterFrameSep=\skip149
+\fb@frw=\dimen166
+\fb@frh=\dimen167
+\FrameRule=\dimen168
+\FrameSep=\dimen169
+)
+(/usr/share/texmf-dist/tex/latex/float/float.sty
+Package: float 2001/11/08 v1.3d Float enhancements (AL)
+\c@float@type=\count327
+\float@exts=\toks28
+\float@box=\box56
+\@float@everytoks=\toks29
+\@floatcapt=\box57
+)
+\minted@appexistsfile=\read2
+\minted@bgbox=\box58
+\minted@code=\write5
+\c@minted@FancyVerbLineTemp=\count328
+\c@minted@pygmentizecounter=\count329
+\@float@every@listing=\toks30
+\c@listing=\count330
+)
+runsystem(mkdir -p _minted-06_NOME_COMPLETO_DO_ALUNO_6)...executed.
+
+
+(/usr/share/texmf-dist/tex/latex/tools/enumerate.sty
+Package: enumerate 2015/07/23 v3.00 enumerate extensions (DPC)
+\@enLab=\toks31
+)
+(/usr/share/texmf-dist/tex/latex/paralist/paralist.sty
+Package: paralist 2017/01/22 v2.7 Extended list environments
+\pltopsep=\skip150
+\plpartopsep=\skip151
+\plitemsep=\skip152
+\plparsep=\skip153
+\pl@lab=\toks32
+)
+(/usr/share/texmf-dist/tex/latex/mdwtools/syntax.sty
+Package: syntax 1996/05/17 1.07 Syntax typesetting (MDW)
+\grammarparsep=\skip154
+\grammarindent=\dimen170
+\sdstartspace=\skip155
+\sdendspace=\skip156
+\sdmidskip=\skip157
+\sdtokskip=\skip158
+\sdfinalskip=\skip159
+\sdrulewidth=\dimen171
+\sdcirclediam=\dimen172
+\sdindent=\dimen173
+)
+runsystem(which pygmentize && touch 06_NOME_COMPLETO_DO_ALUNO_6.aex)...executed
+.
+
+runsystem(rm 06_NOME_COMPLETO_DO_ALUNO_6.aex)...executed.
+
+
+(./06_NOME_COMPLETO_DO_ALUNO_6.aux)
+\openout1 = `06_NOME_COMPLETO_DO_ALUNO_6.aux'.
+
+LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 42.
+LaTeX Font Info:    ... okay on input line 42.
+LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 42.
+LaTeX Font Info:    ... okay on input line 42.
+LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 42.
+LaTeX Font Info:    ... okay on input line 42.
+LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 42.
+LaTeX Font Info:    ... okay on input line 42.
+LaTeX Font Info:    Checking defaults for TU/lmr/m/n on input line 42.
+LaTeX Font Info:    ... okay on input line 42.
+LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 42.
+LaTeX Font Info:    ... okay on input line 42.
+LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 42.
+LaTeX Font Info:    ... okay on input line 42.
+LaTeX Font Info:    Checking defaults for TS1/cmr/m/n on input line 42.
+LaTeX Font Info:    Try loading font information for TS1+cmr on input line 42.
+
+(/usr/share/texmf-dist/tex/latex/base/ts1cmr.fd
+File: ts1cmr.fd 2014/09/29 v2.5h Standard LaTeX font definitions
+)
+LaTeX Font Info:    ... okay on input line 42.
+
+(/usr/share/texmf-dist/tex/latex/graphics/graphicx.sty
+Package: graphicx 2017/06/01 v1.1a Enhanced LaTeX Graphics (DPC,SPQR)
+
+(/usr/share/texmf-dist/tex/latex/graphics/graphics.sty
+Package: graphics 2017/06/25 v1.2c Standard LaTeX Graphics (DPC,SPQR)
+
+(/usr/share/texmf-dist/tex/latex/graphics/trig.sty
+Package: trig 2016/01/03 v1.10 sin cos tan (DPC)
+)
+(/usr/share/texmf-dist/tex/latex/graphics-cfg/graphics.cfg
+File: graphics.cfg 2016/06/04 v1.11 sample graphics configuration
+)
+Package graphics Info: Driver file: xetex.def on input line 99.
+)
+\Gin@req@height=\dimen174
+\Gin@req@width=\dimen175
+)
+\AtBeginShipoutBox=\box59
+
+Underfull \hbox (badness 10000) in paragraph at lines 86--89
+
+ []
+
+[1
+
+] (./question.7/exercise.1.tex
+Underfull \hbox (badness 10000) in paragraph at lines 3--12
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 3--12
+
+ []
+
+) (./question.4/exercise.0.tex
+Underfull \hbox (badness 10000) in paragraph at lines 2--9
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 2--9
+
+ []
+
+) (./question.6/exercise.0.tex
+Underfull \hbox (badness 10000) in paragraph at lines 3--6
+
+ []
+
+[2]) (./question.0/exercise.0.tex
+Underfull \hbox (badness 10000) in paragraph at lines 6--9
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 10--11
+
+ []
+
+) (./question.1/exercise.7.tex
+Underfull \hbox (badness 10000) in paragraph at lines 2--8
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 2--8
+
+ []
+
+) (./question.9/exercise.7.tex [3]) (./question.3/exercise.7.tex
+Underfull \hbox (badness 10000) in paragraph at lines 2--4
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 2--4
+
+ []
+
+) (./question.2/exercise.3.tex
+Underfull \hbox (badness 10000) in paragraph at lines 2--9
+
+ []
+
+) (./question.8/exercise.3.tex
+Underfull \hbox (badness 10000) in paragraph at lines 3--14
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 3--14
+
+ []
+
+[4]) (./question.5/exercise.8.tex
+Underfull \hbox (badness 10000) in paragraph at lines 2--5
+
+ []
+
+) [5]
+This exam contains 10 questions with 0 parts, 0 subparts, and 0 subsubparts.
+This exam has a total of 100 points.
+This exam has a total of 0 bonus points.
+
+Class exam Warning: Point totals have changed. Rerun to get point totals right.
+
+
+(./06_NOME_COMPLETO_DO_ALUNO_6.aux)
+
+LaTeX Warning: Label(s) may have changed. Rerun to get cross-references right.
+
+ ) 
+Here is how much of TeX's memory you used:
+ 16459 strings out of 493007
+ 309170 string characters out of 6140075
+ 429386 words of memory out of 5000000
+ 20223 multiletter control sequences out of 15000+600000
+ 556018 words of font info for 47 fonts, out of 8000000 for 9000
+ 1348 hyphenation exceptions out of 8191
+ 39i,15n,33p,10435b,433s stack positions out of 5000i,500n,10000p,200000b,80000s
+
+Output written on 06_NOME_COMPLETO_DO_ALUNO_6.pdf (5 pages).
