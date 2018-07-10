@@ -1,6 +1,6 @@
 # Gerador de provas em Latex (LatexExamGenerator)
 O gerador de provas é uma ferramenta para auxiliar a geração de provas customizadas e individuais por aluno.
-O prof. tem em suas mãos uma ferramenta capaz de receber um conjunto de questões pré-definidas e transformá-las em avaliações individuais facilitando o processo de geração de edição e prepararação para impressão.
+O prof. tem em suas mãos uma ferramenta capaz de receber um conjunto de questões pré-definidas e transformá-las em avaliações individuais facilitando o processo de geração, edição e preparação para impressão.
 ### Funcionalidades:
  - Gerador de provas automatizados
  - Provas individuais por alunos
@@ -18,15 +18,17 @@ O processo:
  - Executar o programa main.py no diretório do **template**
  
 # Resultado 
-Como resultado obteremos um novo diretório criado junto com a estrutura do **template** chamado build. Isso garante que antes do produto final a ser realizado o prof. tenha oportunidade de conferir o gabarito, número de provas.
+Como resultado obtem-se um novo diretório criado dentro de **template** chamado build. Isso garante que o prof. possa realizar uma checagem e conferir gabaritos e número de provas.
 Pode-se observar que cada prova gerada, contém a estrutura número_nome_do_aluno, o que facilita a identificação e a estrutura gerada pelo programa principal main.py. 
 Cada vez que o programa main.py for executado a pasta build será inteiramente refeita e cada uma das provas criadas terá uma nova estrutura.
 
-# A estrutura
-template/exam.tex (Folha de rosto da prova)
-template/alunos.txt (Alunos participantes)
-template/Makefile (Ferramenta de ajuda na compilação do exam.text)
-template/question.X/ (Cada questão da prova)
+# A estrutura (arquivos)
+```sh
+template/exam.tex # Folha de rosto da prova
+template/alunos.txt # Alunos participantes
+template/Makefile # Ferramenta de ajuda na compilação do exam.text
+template/question.X/exercise.0.tex # Cada questão da prova
+```
 
 # Como gerar o diretório build?
 Para gerar o diretório build basta executar o comando:
@@ -39,7 +41,7 @@ Ou seja, executar o programa main.py dentro do diretório template.
 Depois de executar o programa o diretório build vai conter todas as provas prontas para serem geradas individualmente.
 
 # Script.sh
-Dentro do diretório build é possível encontrar o arquivo script.sh que é responsável por gerar as provas no formato PDF e também incluir cada uma das provas para um formato ZIP, chamado provas.zip . O arquivo provas.zip já está no melhor formato para ser compartilhado, ou transportado até a impressora.
+Dentro do diretório build é possível encontrar o arquivo script.sh que é responsável por gerar as provas no formato PDF e também incluir cada uma das provas para um arquivo ZIP, chamado provas.zip . O arquivo provas.zip está no melhor formato para ser compartilhado, ou transportado até uma impressora.
 
 # Como corrigir as provas?
 Todas as provas são diferentes, mas para cada prova existe um arquivo chamado assinatura, que representa o gabarito para cada prova.
