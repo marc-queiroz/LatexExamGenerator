@@ -1,0 +1,108 @@
+\documentclass[addpoints,,12pt]{exam}
+
+\title{Prova.2018.2.Linguagem.Programação.3}
+
+\usepackage[utf8]{inputenc}
+\usepackage[brazil]{babel}
+\usepackage[T1]{fontenc}
+\usepackage{mathtools}
+\newcommand*{\renameenviron}[1]{%
+  \expandafter\let\csname exam-#1\expandafter\endcsname
+      \csname #1\endcsname
+  \expandafter\let\csname endexam-#1\expandafter\endcsname
+      \csname end#1\endcsname
+  \expandafter\let\csname #1\endcsname\relax
+  \expandafter\let\csname end#1\endcsname\relax
+}
+\renameenviron{framed}
+\renameenviron{shaded}
+\renameenviron{leftbar}
+\usepackage{mdframed}
+\usepackage{minted}
+
+\mdfsetup{frametitlealignment=\centering}
+
+\usepackage{enumerate}
+\usepackage{paralist}
+\usepackage{syntax}
+\setdefaultleftmargin{0em}{2.2em}{1.87em}{1.7em}{1em}{1em}
+
+\pointpoints{ponto}{pontos}
+
+\newcommand{\figuratopo}{  
+	\begin{center}
+    	%\vbox {\includegraphics[width=0.20\textwidth]{figuras/logo_topo.jpeg}}
+    	\vbox to 0pt{\hfill\fbox{\includegraphics[height=3cm]{figuras/qrcode.png}}}
+    	%\includegraphics[scale=0.2]{figuras/qrcode.png}
+  	\end{center}}
+\renewcommand{\half}{
+0.5
+}
+
+\begin{document}
+
+%\figuratopo 
+\pagestyle{headandfoot}
+\firstpageheadrule
+\firstpageheader{Prof. Nome do professor}{}{$2^{\text{o}}$ ano do curso - disciplina}
+\runningheader{$2^{\text{o}}$ ano do curso - disciplina}{}{}
+\runningheadrule
+\runningfooter{}{}{p. \thepage\ - \numpages}
+
+\begin{center}
+	\bfseries \large Avaliação do $2^{\text{o}}$ Bimestre - 07/06/2018
+\end{center}
+
+\begin{mdframed}[userdefinedwidth=1.0\textwidth,align=center,frametitle={Instruções}]
+			%\footnotesize
+		\begin{enumerate}
+			\item Escreva, abaixo, no local indicado o nome completo. 
+			\item Esta prova é composta por \numpages\ páginas (incluindo a capa) e \numquestions\ questões.
+			\item Aguarde autorização para iniciar a prova. A seguir, antes de iniciar a prova, confira a paginação e o número de questões.
+			\item A interpretação das questões é parte do processo de avaliação, não sendo permitidas perguntas.
+			\item Não serão permitidos empréstimos de materiais, consultas e comunicação entre os alunos, tampouco o uso de livros e apontamentos. Aparelhos eletrônicos e, em especial, aparelhos celulares deverão ser desligados.
+			\item Utilizar folhas em branco para a solução das questões.
+			\item As questões podem ser resolvidas e apresentadas fora de ordem, mas devem estar identificadas.
+			\item Colocar nomes em todas as folhas utilizadas, inclusive nas que apresentam os enunciados das questões.
+			\item Todas as folhas utilizadas devem ser entregues.
+			\item Questões resolvidas à lápis podem causar problemas em uma possível revisão de prova. Portanto, prefira respostas a caneta nas partes importantes da solução das questões.
+		\end{enumerate}
+
+	\hfill \textbf{Boa Prova!}
+	\end{mdframed}
+	
+	\vfill
+	
+	\begin{center}
+		\textbf{Campo reservado ao professor} \\
+		\hqword{Questão}
+		\hpword{Pontos}
+		\hsword{Nota}
+		\gradetable[h]%[pages]  % Use [pages] to have grading table by page instead of question	
+	\end{center}
+	\vspace{.5cm}
+	
+	\begin{mdframed}[align=left]
+		\textbf{Nome: 02 - NOME COMPLETO DO ALUNO 2}
+		\\
+		\\Assinatura:
+	\end{mdframed}
+
+	\newpage	
+	
+\noindent \textbf{Questões}
+
+\begin{questions}
+\input{question.1/exercise.3}
+\input{question.6/exercise.6}
+\input{question.4/exercise.0}
+\input{question.7/exercise.1}
+\input{question.9/exercise.6}
+\input{question.2/exercise.5}
+\input{question.0/exercise.2}
+\input{question.3/exercise.2}
+\input{question.8/exercise.2}
+\input{question.5/exercise.7}
+\end{questions}
+
+\end{document}
