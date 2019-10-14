@@ -286,8 +286,8 @@ if __name__ == "__main__":
         #print binascii.hexlify(content)
         #print binascii.unhexlify(binascii.hexlify(content))
 
-        img = qrcode.make('http://192.168.0.12:8080/' + binascii.hexlify(content) + '/', image_factory=PilImage)
-        img.save(buildDir + '/' + nomeDiretorioAluno + '/' + 'figuras/qrcode.png')
+        #img = qrcode.make('http://192.168.0.12:8080/' + binascii.hexlify(content) + '/', image_factory=PilImage)
+        #img.save(buildDir + '/' + nomeDiretorioAluno + '/' + 'figuras/qrcode.png')
 
 
 
