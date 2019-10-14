@@ -233,7 +233,7 @@ if __name__ == "__main__":
                 #     print 'Itens: ' + items
                 for idxAnswer, item in enumerate(items):
                     if '%verdadeiro' in item:
-                        assinatura = assinatura + str(idx+1) + ': GABARITO: ' + str(idxAnswer+1) + '\n'
+                        assinatura = assinatura + str(idx+1) + ': GABARITO: ' + char(idxAnswer+65) + '\n'
                         assinatura = assinatura + '\tQuestão trocada: ' + questao + '\n'
                         assinatura = assinatura + '\tQuestao escolhida: ' + str(estrutura[questoes[idx]].diretorioAtual) + str(estrutura[questoes[idx]].exercicios[idxExercise]) + '\n'
             else:
